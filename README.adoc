@@ -18,23 +18,21 @@ toc::[Title="Table des matières"]
 
 == Le site en production
 
-http://captelec.iut-blagnac.fr/auth.php
+https://capt-elec.csorigins.com/live
 
 == Liens vers Livraison
 
 * https://youtu.be/O8YL7YfD6b8[Vidéo de présentation du projet].
 
-=== Documents en html et PDF 
+=== Documents en html  
 
-* link:Livrables/DocumentationTechnique.pdf[Documentation technique (pdf)]
-* link:Livrables/DocUtilisateur.pdf[Documentation utilisateur (pdf)]
-
-* link:Livrables/DocumentationTechnique.pdf[Documentation technique (html)]
-* link:Livrables/DocUtilisateur.pdf[Documentation utilisateur (html)]
+* link:Documents/CDCU/CaptElec_CDCU.pdf[Cahier des charges utilisateur]
+* link:Documents/DocTechnique/DocumentationTechnique.html[Documentation technique]
+* link:Documents/DocUtilisateur/DocUtilisateur.html[Documentation utilisateur]
 
 === Sources en asciidoc
 
-* link:Documents/CaptElec_CDCU.adoc[Cahier des charges utilisateur]
+* link:Documents/CDCU/CaptElec_CDCU.adoc[Cahier des charges utilisateur]
 * link:Documents/DocTechnique/DocumentationTechnique.adoc[Documentation technique]
 * link:Documents/DocUtilisateur/DocUtilisateur.adoc[Documentation utilisateur]
 
